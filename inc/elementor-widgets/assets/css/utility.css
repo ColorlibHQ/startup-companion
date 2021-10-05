@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.startup-pt-100 {
+    padding-top: 100px;
+}
+.startup-pt-80 {
+    padding-top: 80px;
+}
+.startup-pt-70 {
+    padding-top: 70px;
+}
+.startup-pt-60 {
+    padding-top: 60px;
+}
+.startup-pt-50 {
+    padding-top: 50px;
+}
+.startup-pt-30 {
+    padding-top: 30px;
+}
+.startup-pb-100 {
+    padding-bottom: 100px;
+}
+.startup-pb-80 {
+    padding-bottom: 80px;
+}
+.startup-pb-70 {
+    padding-bottom: 70px;
+}
+.startup-pb-60 {
+    padding-bottom: 60px;
+}
+.startup-pb-50 {
+    padding-bottom: 50px;
+}
+.startup-pb-30 {
+    padding-bottom: 30px;
+}
